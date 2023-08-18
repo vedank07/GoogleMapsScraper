@@ -66,4 +66,3 @@ This project is licensed under the MIT license - see [LICENSE.md](LICENSE.md) fo
 
 This project is for educational purposes only. Make sure to follow Google's terms when scraping.
 
-Let me know if you would like me to expand or modify the README further. I aimed to cover the key aspects of the project, usage, technology overview, and next steps. A good README helps others understand how to use the project and contribute to it.
